@@ -5,3 +5,4 @@ STM32G431 - Nucleo
  - PC13 push button
  - When push the button, 2bytes data will transmit
  - TX only mode
+ - LL used
